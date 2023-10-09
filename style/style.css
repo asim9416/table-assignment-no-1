@@ -1,0 +1,20 @@
+main{
+   background-color: white;
+   color: black;
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   height: 40pxs;
+}
+img{
+   height: 30px;
+}
+a{
+   height: 30px;
+   background-color: black;
+   padding: 5px 10px;
+   color: white;
+   text-decoration: none;
+   border-radius: 10px;
+}
